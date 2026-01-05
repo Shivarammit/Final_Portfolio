@@ -42,7 +42,8 @@ const techCategories = [
       { name: 'Linux', icon: 'linux' },
       { name: 'github', icon: 'github'},
       { name: 'git', icon: 'git' },
-      { name: 'gitlab', icon: 'gitlab'}
+      { name: 'gitlab', icon: 'gitlab'},
+      { name: 'BitBucket', icon: 'bitbucket' }
     ]
   },
   {
