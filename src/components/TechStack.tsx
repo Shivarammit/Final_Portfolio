@@ -39,7 +39,10 @@ const techCategories = [
       { name: 'AWS', icon: 'aws' },
       { name: 'Azure', icon: 'azure' },
       { name: 'Docker', icon: 'docker' },
-      { name: 'Linux', icon: 'linux' }
+      { name: 'Linux', icon: 'linux' },
+      { name: 'github', icon: 'github'},
+      { name: 'git', icon: 'git' },
+      { name: 'gitlab', icon: 'gitlab'}
     ]
   },
   {
