@@ -54,7 +54,7 @@ export default function Experience() {
                   <div className="flex flex-col gap-2">
                     <div className="flex items-center gap-2 text-gray-400">
                       <Calendar className="w-4 h-4" />
-                      <span className="text-sm">Summer 2023</span>
+                      <span className="text-sm">Summer 2025</span>
                     </div>
                     <div className="flex items-center gap-2 text-gray-400">
                       <MapPin className="w-4 h-4" />
